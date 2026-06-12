@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=F78166&center=true&vCenter=true&width=600&height=70&lines=Jo%C3%A3o+Mota+%E2%9C%A6;Code.+Coffee.+Repeat.;Always+shipping+something." alt="João Mota" />
 </a>
 
-<sub>👋 Welcome to my corner of GitHub</sub>
-
 <br/>
 
 <!-- ░░ Profile views + socials ░░ -->
@@ -20,12 +18,14 @@
 
 ### 🛠️ Tech I reach for
 
-![C](https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-555555?style=flat&logo=cplusplus&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-555555?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-555555?style=flat&logo=python&logoColor=FFD43B)
+![TypeScript](https://img.shields.io/badge/TypeScript-555555?style=flat&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat&logo=javascript&logoColor=F7DF1E)
+![Julia](https://img.shields.io/badge/Julia-555555?style=flat&logo=julia&logoColor=9558B2)
+![Python](https://img.shields.io/badge/Python-555555?style=flat&logo=python&logoColor=FFD43B)
 ![HTML5](https://img.shields.io/badge/HTML5-555555?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-555555?style=flat&logo=css3&logoColor=1572B6)
+![Node.js](https://img.shields.io/badge/Node.js-555555?style=flat&logo=nodedotjs&logoColor=339933)
+![Docker](https://img.shields.io/badge/Docker-555555?style=flat&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-555555?style=flat&logo=git&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/Linux-555555?style=flat&logo=linux&logoColor=FCC624)
 
@@ -35,9 +35,25 @@
 
 <div align="center">
 
-<!-- ░░ Stats + Top languages, side by side ░░ -->
+<!-- ░░ GitHub stats ░░ -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jcmota0&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=f78166&text_color=c9d1d9&icon_color=f78166" alt="João's GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcmota0&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=f78166&text_color=c9d1d9" alt="Most used languages" />
+
+</div>
+
+<div align="center">
+
+### 📊 Most Used Languages
+
+<sub>computed across all my repositories (public + private)</sub>
+
+<br/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-29.7%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-21.8%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Julia](https://img.shields.io/badge/Julia-21.3%25-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14.8%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-6.4%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-5.8%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
@@ -64,9 +80,5 @@
 
 <!-- ░░ Contribution activity graph ░░ -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jcmota0&bg_color=0d1117&color=f78166&line=f78166&point=ffffff&area=true&area_color=f78166&hide_border=true" alt="contribution graph" width="95%" />
-
-<br/><br/>
-
-<sub><i>“First, solve the problem. Then, write the code.”</i></sub>
 
 </div>
